@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @so-dipe
+- 👋 Hi, I’m sodipe🌚
 - 👀 I’m interested in machine learning and quantitative finance
 - 🌱 I’m currently learning applications of machine learning in finance
 - 💞️ I’m looking to collaborate on machine learning projects
