@@ -1,8 +1,7 @@
-- 👋 Hi, I’m sodipe🌚
-- 👀 I’m interested in machine learning and quantitative finance
-- 🌱 I’m currently learning applications of machine learning in finance
+- 👋 Hi, I’m Paul Sodipe
+- 👀 I’m interested in data science and anything related to data.
+- 🌱 I’m currently learning MLOps and the applications of ML in finance, mainly Quant Finance
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 @_sodipe on twitter.
 
 <!---
 so-dipe/so-dipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
