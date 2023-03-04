@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Paul Sodipe
-- 👀 I’m interested in data science and anything related to data.
-- 🌱 I’m currently learning MLOps and the applications of ML in finance, mainly Quant Finance
-- 💞️ I’m looking to collaborate on machine learning projects
+# Hi there, I'm Paul Sodipe! 👋
 
-<!---
-so-dipe/so-dipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data science enthusiast with a passion for exploring the fascinating world of data. My interests include data visualization, computer vision, and time series analysis, among other things.
+
+## Current projects
+
+- [Document Extractor](https://github.com/so-dipe/receipt-recogn): A simple app that takes an image or document and extracts useful information from it. Was initially meant to extract information from reciepts. Built with Azure READ and streamlit.
+- [WhatsApp Chat Analyser](https://github.com/so-dipe/Whatsapp-chat-analyzer): A streamlit web app that analyses whatsapp conversation.
+
+## Learning journey
+
+I'm currently learning about MLOps and the applications of machine learning in finance, particularly in the field of Quant Finance. I'm finding this area of study to be really interesting and am excited to continue learning more about it. I also spend some time competiting on Kaggle, building small web applications and playing with data especially from Formula 1. You can also find some of my written work on [Medium](https://medium.com/@sodipepaul)
+
+## Collaboration
+
+I'm looking to collaborate on machine learning projects, so if you're interested in working together, please don't hesitate to reach out! You can contact me through my GitHub profile or via email at [sodipepaul@gmail.com]. I'm excited to meet new people and create amazing things together.
+
