@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm sodipe</h1>
-<h3 align="center">Machine Learning Engineer from Nigeria</h3>
+<h3 align="center">A Data Scientist from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=so-dipe&label=Profile%20views&color=0e75b6&style=flat" alt="so-dipe" /> </p>
 
-- 🔭 I’m currently working on [ChromeCoPilot](https://github.com/so-dipe/ChromeCoPilot)
+- 🔭 I currently work at Standard Bank Group as a Data Scientist.
 
 - 👨‍💻 All of my projects are available at [https://so-dipe.github.io](https://so-dipe.github.io)
 
